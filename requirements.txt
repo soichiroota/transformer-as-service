@@ -4,6 +4,6 @@ mecab-python3==0.996.5
 pythainlp==2.1.4
 responder==2.0.5
 sacremoses==0.0.41
-tensorflow-cpu==2.1.0
+tensorflow-cpu==2.5.1
 torch==1.5.0
 transformers==2.10.0
